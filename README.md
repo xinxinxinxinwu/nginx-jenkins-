@@ -111,3 +111,4 @@
  2:前端er，Jenkins持续化集成Webpack项目(https://juejin.im/post/5c9dc0de6fb9a071105deeb2#heading-16)
  3:Jenkins +nginx 搭建前端构建环境(https://juejin.im/post/5b371678f265da599f68dfa2)
  4:jenkins远程连接linux配置测试(https://www.cnblogs.com/wangqianqiannb/p/7200791.html?utm_source=itdadao&utm_medium=referral)
+ 5:前端必会的 Nginx入门教程(https://juejin.im/post/5bd7a6046fb9a05d2c43f8c7)
